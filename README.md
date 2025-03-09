@@ -16,21 +16,6 @@ The **Movie Recommender System** is a Python-based application built using **Str
 - **Pickle** for model storage
 - **Dataset:** Sourced from **Kaggle**
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/movie-recommender.git
-   cd movie-recommender
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the application:
-   ```bash
-   streamlit run app.py
-   ```
-
 ## Usage
 - Enter a movie name to get recommendations.
 - Explore suggestions based on genres, actors, or viewing history.
@@ -39,11 +24,9 @@ The **Movie Recommender System** is a Python-based application built using **Str
 - Integration of real-time user feedback.
 - Adding a rating system for better recommendations.
 
-## License
-This project is licensed under the **MIT License**.
 
 ## Contact
 - **Name:** [Devashish Moghe]  
-- **Email:** devashishmoghe2GMAIL.COM.com  
+- **Email:** devashishmoghe@gmail.com  
 - **GitHub:** [https://github.com/DMZ22]
 
